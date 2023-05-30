@@ -64,3 +64,9 @@ defined problem statement.
 Regression or Classification) and create an input field where you can enter
 each column value except ‘Selling_Price’ for regression model and except
 ‘Status’ for classification model
+![image](https://github.com/Saradhaperumal/Industrial-Copper-Modelling/assets/116868444/a2ff917b-f8cd-415b-a309-2f2177fe9936)
+![image](https://github.com/Saradhaperumal/Industrial-Copper-Modelling/assets/116868444/ab519575-627d-4471-bf32-315d109e2a59)
+![image](https://github.com/Saradhaperumal/Industrial-Copper-Modelling/assets/116868444/ed0e3e05-4eaf-45e6-8ad3-6695835822f7)
+
+
+
